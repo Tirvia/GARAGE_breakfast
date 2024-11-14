@@ -3,63 +3,63 @@ $( document ).ready(function() {
 
         var cards=[
         {id:0,
-         question:'./images/амер сэндв с говядиной1.png',
-         answer:'./images/амер сэндв с говядиной.png'},
+         question:'../../images/амер сэндв с говядиной1.png',
+         answer:'../../images/амер сэндв с говядиной.png'},
         
         {id:1,
-         question:'./images/амер сэндв с курицей1.png',
-         answer:'./images/амер сэндв с курицей.png'},
+         question:'../../images/амер сэндв с курицей1.png',
+         answer:'../../images/амер сэндв с курицей.png'},
         
         {id:2,
-         question:'./images/английский завтрак1.png',
-         answer:'./images/английский завтрак.png'},
+         question:'../../images/английский завтрак1.png',
+         answer:'../../images/английский завтрак.png'},
         
         {id:3,
-         question:'./images/Беларуский завтрак1.png',
-         answer:'./images/Беларуский завтрак.png'},
+         question:'../../images/Беларуский завтрак1.png',
+         answer:'../../images/Беларуский завтрак.png'},
         
         {id:4,
-         question:'./images/бенедикт с беконом1.png',
-         answer:'./images/бенедикт с беконом.png'},
+         question:'../../images/бенедикт с беконом1.png',
+         answer:'../../images/бенедикт с беконом.png'},
         {id:5,
-         question:'./images/бенедикт с лососем1.png',
-         answer:'./images/бенедикт с лососем.png'},
+         question:'../../images/бенедикт с лососем1.png',
+         answer:'../../images/бенедикт с лососем.png'},
         
         {id:6,
-         question:'./images/бенедикт с цыпленком1.png',
-         answer:'./images/бенедикт с цыпленком.png'},
+         question:'../../images/бенедикт с цыпленком1.png',
+         answer:'../../images/бенедикт с цыпленком.png'},
         
         {id:7,
-         question:'./images/блинчики с рикоотой и шпин1.png',
-         answer:'./images/блинчики с рикоотой и шпин.png'},
+         question:'../../images/блинчики с рикоотой и шпин1.png',
+         answer:'../../images/блинчики с рикоотой и шпин.png'},
         
         {id:8,
-         question:'./images/блинчики с твор и клюкв1.png',
-         answer:'./images/блинчики с твор и клюкв.png'},
+         question:'../../images/блинчики с твор и клюкв1.png',
+         answer:'../../images/блинчики с твор и клюкв.png'},
         
          {id:9,
-         question:'./images/Большой блин1.png',
-         answer:'./images/Большой блин.png'},
+         question:'../../images/Большой блин1.png',
+         answer:'../../images/Большой блин.png'},
         
         {id:10,
-         question:'../images/кули1.png',
-         answer:'../images/кули.png'},
+         question:'../../images/кули1.png',
+         answer:'../../images/кули.png'},
         
         {id:11,
-         question:'./images/Немецкий завтрак.1.png',
-         answer:'./images/Немецкий завтрак.png'},
+         question:'../../images/Немецкий завтрак.1.png',
+         answer:'../../images/Немецкий завтрак.png'},
         
         {id:12,
-         question:'./images/овсяная каша1.png',
+         question:'../../images/овсяная каша1.png',
          answer:'./images/овсяная каша.png'},
         
         {id:13,
-         question:'./images/омлет-лосось1.png',
-         answer:'./images/омлет-лосось.png'},
+         question:'../../images/омлет-лосось1.png',
+         answer:'../../images/омлет-лосось.png'},
         
         {id:14,
-         question:'./images/омлет-овощи-гриль1.png',
-         answer:'./images/омлет-овощи-гриль.png'},
+         question:'../../images/омлет-овощи-гриль1.png',
+         answer:'../../images/омлет-овощи-гриль.png'},
         
         
         ];
